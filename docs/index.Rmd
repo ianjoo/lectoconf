@@ -1,5 +1,6 @@
 ---
 title: "The First International Conference on Lectometry"
+subtitle: "26--28 July 2027, Otaru, Japan"
 site: distill::distill_website
 ---
 
@@ -15,11 +16,9 @@ opts_chunk$set(echo = FALSE)
 
 ```
 
-Background: Phonological distances between Eurasian lects measured based on Phonotacticon 1.0 (Joo & Hsu 2025). Redder color represents closer distance.
-
 # About
 
-The **First International Conference on Lectometry** (LectoConf1) is a conference dedicated to the art of measuring distance (the quantifiable degree of dissimilarity) between lects (linguistic varieties).
+The **First International Conference on Lectometry** (LectoConf1) is a conference dedicated to the art of measuring distance (the quantifiable degree of dissimilarity) between lects (linguistic varieties). It will be held in hybrid mode in **Otaru, Japan** on **26--28 July 2027**.
 
 # Plenary speakers
 
