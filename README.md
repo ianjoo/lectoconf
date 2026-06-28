@@ -1,1 +1,1 @@
-Indonesian Languages and Linguistics 2
+The First International Conference on Lectometry
