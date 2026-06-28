@@ -1,0 +1,29 @@
+---
+title: "The First International Conference on Lectometry"
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+library(knitr)
+library(readxl)
+library(tidyverse)
+library(leaflet)
+library(DT)
+library(hms)
+
+opts_chunk$set(echo = FALSE)
+
+```
+
+Background: Phonological distances between Eurasian lects measured based on Phonotacticon 1.0 (Joo & Hsu 2025). Redder color represents closer distance.
+
+# About
+
+The **First International Conference on Lectometry** (LectoConf1) is a conference dedicated to the art of measuring distance (the quantifiable degree of dissimilarity) between lects (linguistic varieties).
+
+# Plenary speakers
+
+ * [**Szeto** Pui Yiu](https://pyszeto.wixsite.com/home) (University of Hong Kong)
+ * [Hedvig **Skirgård**](https://sites.google.com/site/hedvigskirgard) (Max Planck Institute for Evolutionary Anthropology)
+
+# Call for papers

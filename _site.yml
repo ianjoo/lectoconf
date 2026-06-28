@@ -1,0 +1,11 @@
+name: "LectoConf1"
+title: "LectoConf1"
+theme: theme.css
+description: |
+  The First International Conference on Lectometry
+output_dir: "docs"
+output: distill::distill_article
+
+include:
+  - index.Rmd
+  - Indonesia.Rmd
