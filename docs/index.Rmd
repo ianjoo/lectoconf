@@ -1,6 +1,5 @@
 ---
 title: "The First International Conference on Lectometry"
-subtitle: "26--28 July 2027, Otaru, Japan"
 site: distill::distill_website
 ---
 
